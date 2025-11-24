@@ -4,7 +4,7 @@ metadata:
   name: sample-service
   description: demo service
   annotations:
-    github.com/project-slug: ramannkhanna2/test
+    github.com/project-slug: vibhatsrivastava/platform-engineering
 spec:
   type: service
   owner: team-a
